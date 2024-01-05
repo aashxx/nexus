@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1701687841239,
+      "tag": "0000_nice_blizzard",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1701688216528,
+      "tag": "0001_stiff_blue_blade",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1701689287169,
+      "tag": "0002_safe_maverick",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1702115206473,
+      "tag": "0003_sad_blockbuster",
+      "breakpoints": true
+    }
+  ]
+}
